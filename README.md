@@ -1,4 +1,5 @@
 # PowerFunction-Code-in-Java-Practive-Task-Lab
+# Write a recursive function to compute the value of x raised to the power of y (x^y). 
 YouTube Link: https://youtu.be/nLCIa-u_dEo
 ```Java
 public class PowerFunction{
